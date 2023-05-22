@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 ### <div align="center">I'm Michael Winkler, a full-time Android developer 👨‍💻<br/>I'm working since 2019 at [MUGLER SE](https://www.mugler.de/) 🚀 as team leader for Android development.</div>  
 
